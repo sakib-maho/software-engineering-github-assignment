@@ -17,18 +17,22 @@ and prints a status message based on completed vs total tasks.
 - Simple test executable for behavior validation
 - `Makefile` build/test workflow
 
-## Build and Run
+## Quick Start
 
 ```bash
 make build
 ./progress_cli 2 5
 ```
 
-## Test
+## Tests
 
 ```bash
 make test
 ```
+
+## License
+
+MIT License. See `LICENSE`.
 
 ## Project Structure
 
@@ -41,7 +45,3 @@ software-engineering-github-assignment/
 ├── tests/test_messages.c
 └── Makefile
 ```
-
-## License
-
-MIT License. See `LICENSE`.
