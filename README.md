@@ -1,5 +1,12 @@
 # Software Engineering GitHub Assignment (Upgraded)
 
+<!-- BrandCloud:readme-standard -->
+[![Maintained](https://img.shields.io/badge/Maintained-yes-brightgreen.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Showcase](https://img.shields.io/badge/Portfolio-Showcase-blue.svg)](#)
+
+_Part of the `sakib-maho` project showcase series with consistent documentation and quality standards._
+
 This repository has been transformed into a small modular C project that evaluates task progress
 and prints a status message based on completed vs total tasks.
 
